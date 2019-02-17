@@ -1,6 +1,6 @@
 pragma solidity ^0.4.0;
 contract Ballot {
-
+//Online Smart Contract IDE w Europa Lity IDE
     struct Voter {
         uint weight;
         bool voted;
